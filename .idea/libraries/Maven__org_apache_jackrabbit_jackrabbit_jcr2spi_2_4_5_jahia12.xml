@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.jackrabbit:jackrabbit-jcr2spi:2.4.5-jahia12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/apache/jackrabbit/jackrabbit-jcr2spi/2.4.5-jahia12/jackrabbit-jcr2spi-2.4.5-jahia12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/apache/jackrabbit/jackrabbit-jcr2spi/2.4.5-jahia12/jackrabbit-jcr2spi-2.4.5-jahia12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/apache/jackrabbit/jackrabbit-jcr2spi/2.4.5-jahia12/jackrabbit-jcr2spi-2.4.5-jahia12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
