@@ -54,8 +54,6 @@
           <property key="Jahia-Block-Edit-Mode" value="${jahia-block-edit-mode}" />
           <property key="Export-Package" value="${export-package}" />
           <property key="Import-Package" value="${jahia.plugin.projectPackageImport},*" />
-          <property key="Provide-Capability" value="${jahia.plugin.providedNodeTypes}${jahia.plugin.providedModulesCapabilities}" />
-          <property key="Require-Capability" value="${jahia.plugin.requiredNodeTypes}${jahia.plugin.requiredModulesCapabilities}" />
           <property key="Embed-Dependency" value="*; scope=compile|runtime; type=!pom; inline=false" />
           <property key="Embed-Transitive" value="true" />
           <property key="Dynamic-ImportPackage" value="*" />
